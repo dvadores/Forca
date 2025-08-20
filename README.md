@@ -21,8 +21,8 @@ O jogo escolhe aleatoriamente uma palavra secreta de uma lista temática e o jog
 
 ## ▶️ Como executar
 
-1. Clone o repositório ou copie o código para um arquivo chamado `jogo_da_forca.py`
+1. Clone o repositório ou copie o código para um arquivo chamado `forca.py`
 2. Execute o script no terminal:
 
 ```bash
-python jogo_da_forca.py
+python forca.py
