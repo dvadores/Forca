@@ -1,28 +1,24 @@
-# 🎯 Jogo da Forca em Python
+# 🎮 Jogo da Forca (Python + Tkinter)
 
-Bem-vindo ao clássico **Jogo da Forca**, agora com uma pegada tecnológica! Este projeto foi desenvolvido em Python e desafia o jogador a adivinhar palavras relacionadas ao mundo da programação e tecnologia.
-
----
-
-## 🚀 Como funciona
-
-O jogo escolhe aleatoriamente uma palavra secreta de uma lista temática e o jogador deve adivinhar letra por letra. A cada erro, uma tentativa é perdida. O jogo termina quando:
-- ✅ Todas as letras são descobertas (vitória)
-- ❌ As tentativas se esgotam (derrota)
+Um jogo da forca clássico, mas com **interface gráfica** feita em Python usando **Tkinter**.  
+O objetivo é adivinhar uma palavra secreta relacionada à tecnologia antes que suas tentativas acabem.  
 
 ---
 
-## 📋 Requisitos
-
-- Python 3.x instalado
-- Terminal ou prompt de comando
+## 🖼️ Demonstração
+- O jogo abre em uma janela gráfica.  
+- Mostra a quantidade de letras da palavra secreta.  
+- Você digita uma letra e clica em **Tentar**.  
+- As letras corretas são reveladas e as erradas ficam listadas.  
+- Você tem **6 tentativas** para acertar.  
+- O botão **Novo Jogo** reinicia a partida a qualquer momento.  
 
 ---
 
-## ▶️ Como executar
+## 🚀 Tecnologias Utilizadas
+- **Python 3.x**  
+- **Tkinter** (biblioteca nativa do Python)  
 
-1. Clone o repositório ou copie o código para um arquivo chamado `forca.py`
-2. Execute o script no terminal:
+---
 
-```bash
-python forca.py
+## 📂 Estrutura do Projeto
